@@ -20,7 +20,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.niemietz.everis.beca.modularizacao.login.ui.LoginActivity"
+        <activity android:name="com.example.login_screen.login.ui.LoginActivity"
             android:screenOrientation="portrait">
         </activity>
         <activity android:name="com.niemietz.everis.beca.modularizacao.ui.LoginOkActivity"

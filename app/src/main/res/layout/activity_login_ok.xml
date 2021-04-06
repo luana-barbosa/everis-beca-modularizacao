@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".login.ui.LoginActivity">
+    tools:context="com.example.login_screen.login.ui.LoginActivity">
 
     <TextView
         android:layout_width="wrap_content"

@@ -1,13 +1,2 @@
 <resources>
-    <string name="app_name">Modularizacao Login</string>
-
-    <string name="go_to_login">Fazer login</string>
-    <string name="password">senha:</string>
-    <string name="button_0_or_1">0 ou 1</string>
-    <string name="button_2_or_3">2 ou 3</string>
-    <string name="button_4_or_5">4 ou 5</string>
-    <string name="button_6_or_7">6 ou 7</string>
-    <string name="button_8_or_9">8 ou 9</string>
-    <string name="login">Entrar</string>
-    <string name="login_realized_text">Login realizado com sucesso!</string>
 </resources>

@@ -18,7 +18,8 @@ android {
             abortOnError false
         }
 
-        buildConfigField "String", "LOG_TAG", '"CORE_BECA"'
+        buildConfigField "String", "LOG_TAG", '"MOD_BECA"'
+        buildConfigField "String", "BECA_API_HOST", '"https://6068931f0add490017340364.mockapi.io"'
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles "consumer-rules.pro"
@@ -41,6 +42,8 @@ android {
 
 dependencies {
 
+    implementation files('libs/core-debug.aar')
+    implementation project(path: ':core')
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
     implementation 'androidx.core:core-ktx:1.3.2'
     implementation 'androidx.appcompat:appcompat:1.2.0'

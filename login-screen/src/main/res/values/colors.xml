@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#C9ED5A</color>
+    <color name="purple_500">@android:color/holo_green_light</color>
+    <color name="purple_700">@android:color/holo_green_dark</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="loading_background">#88000000</color>
+</resources>
